@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pasquale89-cmd.github.io/sitemap.xml
